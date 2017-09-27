@@ -1,1 +1,3 @@
 Hello
+Updated with Git Bash. Yep, still shits himself. There is no hope. 
+Please help!
